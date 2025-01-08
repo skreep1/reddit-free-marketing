@@ -12,42 +12,37 @@ discover a handpicked collection of free Reddit subreddits that are perfect for 
 - [r/AlphaandBetausers](https://www.reddit.com/r/AlphaandBetausers)
 - [r/GrowthHacking](https://www.reddit.com/r/GrowthHacking)
 - [r/Digitalnomad](https://www.reddit.com/r/Digitalnomad)
-> [!TIP]
-> best times to post on Reddit - monday: 6-8 AM & 5-8 PM
 - [r/SideProject](https://www.reddit.com/r/SideProject)
 - [r/SmallBusiness](https://www.reddit.com/r/SmallBusiness)
 - [r/LifeProTips](https://www.reddit.com/r/LifeProTips)
 - [r/lifehacks](https://www.reddit.com/r/lifehacks)
- > [!TIP]
-> best times to post on Reddit - Tuesday: 10-12 PM & 7-10 AM;
 - [r/explainlikeimfive](https://www.reddit.com/r/explainlikeimfive)
 - [r/todayilearned](https://www.reddit.com/r/todayilearned)
 - [r/Promotereddit](https://www.reddit.com/r/Promotereddit)
 - [r/Analytics](https://www.reddit.com/r/Analytics)
- > [!TIP]
-> best times to post on Reddit - Wednesday: Same as Tuesday;
 - [r/Content_marketing](https://www.reddit.com/r/Content_marketing)
 - [r/Advertising](https://www.reddit.com/r/Advertising)
 - [r/Entrepreneur](https://www.reddit.com/r/Entrepreneur)
- > [!TIP]
-> best times to post on Reddit - Thursday: 8-10 AM & 6-9 PM;
 - [r/EntrepreneurRideAlong](https://www.reddit.com/r/EntrepreneurRideAlong)
 - [r/Startups](https://www.reddit.com/r/Startups)
 - [r/Growmybusiness](https://www.reddit.com/r/Growmybusiness)
-> [!TIP]
-> best times to post on Reddit - Friday: 7-9 AM & 5-8 PM;
 - [r/Linkbuilding](https://www.reddit.com/r/Linkbuilding)
 - [r/SEO](https://www.reddit.com/r/SEO)
 - [r/Freepromote](https://www.reddit.com/r/Freepromote)
-
-> [!TIP]
-> best times to post on Reddit - Saturday: 2 PM & 4 PM;
 - [r/SocialMediaMarketing](https://www.reddit.com/r/SocialMediaMarketing)
 - [r/PPC](https://www.reddit.com/r/PPC)
 - [r/AskMarketing](https://www.reddit.com/r/AskMarketing)
 
 > [!TIP]
-> best times to post on Reddit - Sunday: 10-12 PM & 7-10 PM;
+> best times to post on Reddit
+
+- Monday: 6-8 AM & 5-8 PM
+- Tuesday: 10-12 PM & 7-10 AM
+- Wednesday: Same as Tuesday
+- Thursday: 8-10 AM & 6-9 PM
+- Friday: 7-9 AM & 5-8 PM
+- Saturday: 2 PM & 4 PM
+- Sunday: 10-12 PM & 7-10 PM
 
 if this repository was helpful to you, i'd appreciate a follow on my [Twitter (https://x.com/skreepao). 
 thank you!
